@@ -262,7 +262,7 @@ header h1 {
 }
 .cd-timeline-content p, .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
   font-size: 100px;
-  font-size: 0.8125rem;
+  font-size: 2rem;
 }
 .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
   display: inline-block;
@@ -331,7 +331,7 @@ header h1 {
     left: 122%;
     top: 6px;
     font-size: 16px;
-    font-size: 1rem;
+    font-size: 2rem;
   }
   .cd-timeline-block:nth-child(even) .cd-timeline-content {
     float: right;
